@@ -1,0 +1,22 @@
+{
+  "name": "crud-api-starter",
+  "version": "1.0.0",
+  "description": "A simple Nodejs API to perform actions such as Create, Read, Update and Delete data",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brlrb/Nodejs-APIs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "brlrb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brlrb/Nodejs-APIs/issues"
+  },
+  "homepage": "https://github.com/brlrb/Nodejs-APIs#readme"
+}
