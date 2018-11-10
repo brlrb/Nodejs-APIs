@@ -1,0 +1,27 @@
+{
+  "name": "node-crud-api",
+  "version": "1.0.0",
+  "description": "A simple Nodejs CRUD API using Express and MongoDB",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brlrb/Nodejs-CRUD-API.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "Nodejs",
+    "CRUD",
+    "API"
+  ],
+  "author": "brlrb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brlrb/Nodejs-CRUD-API/issues"
+  },
+  "homepage": "https://github.com/brlrb/Nodejs-CRUD-API#readme"
+}
