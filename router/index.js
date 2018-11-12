@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const crudController = require('../internals/controllers/crudController');
+const crudController = require('../server/controllers/crudController');
 
 
 // load all available datas

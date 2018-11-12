@@ -1,15 +1,16 @@
 {
-  "name": "node-crud-api",
+  "name": "react-node-app",
   "version": "1.0.0",
-  "description": "A simple Nodejs CRUD API using Express and MongoDB",
+  "description": "A simple Reactjs + Nodejs API endpoint application to Create, Read, Update and Delete posts",
   "main": "start.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/brlrb/Nodejs-CRUD-API.git"
+    "url": "git+ssh://git@github.com:brlrb/React-Node-app.git"
   },
   "keywords": [
     "nodejs",
     "express",
+    "reactjs",
     "mongodb",
     "Nodejs",
     "CRUD",
@@ -18,9 +19,9 @@
   "author": "brlrb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brlrb/Nodejs-CRUD-API/issues"
+    "url": "https://github.com/brlrb/React-Node-app/issues"
   },
-  "homepage": "https://github.com/brlrb/Nodejs-CRUD-API#readme",
+  "homepage": "https://github.com/brlrb/React-Node-app#readme",
   "scripts": {
     "watch": "nodemon ./start.js --ignore public/",
     "start": "concurrently \"npm run watch\" ",
