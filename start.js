@@ -12,7 +12,7 @@ mongoose.connection.on('error', (err) => {
 
 
 // Import our Models - Database Schema
-require('./internals/models/CRUD');
+require('./server/models/CRUD');
 
 
 // Get the requirement from app.js
