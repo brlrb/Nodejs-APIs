@@ -1,1 +1,2 @@
-# Lists all the project done in Nodejs
+# A simple Nodejs API endpoint application to Create, Read, Update and Delete
+
