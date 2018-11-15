@@ -1,3 +1,12 @@
 node_modules/
 variables.env
-
+sckage-lock.json
+node_modules/
+.DS_Store
+*.log
+.idea
+variables.env
+package.json
+package-lock.json
+public/dist/App.bundle.js.map
+.vscode
